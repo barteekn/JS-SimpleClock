@@ -1,0 +1,11 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  text-align: center;
+}
+#time {
+  text-shadow: 60px;
+  font-size: 4rem;
+}
